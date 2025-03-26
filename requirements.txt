@@ -1,0 +1,8 @@
+fastapi
+uvicorn
+pandas
+motor  # Async MongoDB driver
+openai  # If using OpenAI API
+transformers  # If using Hugging Face models
+torch  # Required for Hugging Face models
+python-dotenv  # For environment variables
